@@ -70,7 +70,7 @@ export default function Navbar() {
                         <i className="fas fa-bars"></i>
                     </button>
                 </div>
-            </div>
+            </div> 
             {isOpen && (
                 <>
                     <br className="xl:hidden" />
